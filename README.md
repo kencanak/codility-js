@@ -1,19 +1,6 @@
-# test
+# codility-js
+1. The question, test data, and solution is located at index.js
+2. Named the function as the question itself (camel cased)
 
-
-
-[![build status](https://secure.travis-ci.org//test.png)](http://travis-ci.org//test)
-
-## Installation
-
-This module is installed via npm:
-
-``` bash
-$ npm install test
-```
-
-## Example Usage
-
-``` js
-var test = require('test');
-```
+# The wish
+1. To complete all the lessons and hit 100% score for all
